@@ -1,0 +1,24 @@
+{
+  "source": "Indian company investor-relations pages",
+  "generated_at_utc": "2026-09-30T09:56:35.179665+00:00",
+  "companies": [
+    {
+      "ticker": "RELIANCE",
+      "name": "Reliance Industries",
+      "investor_url": "https://www.ril.com/investors/financial-reporting",
+      "local_path": "RELIANCE/investor_relations.html"
+    },
+    {
+      "ticker": "HDFCBANK",
+      "name": "HDFC Bank",
+      "investor_url": "https://www.hdfcbank.com/personal/about-us/investor-relations",
+      "local_path": "HDFCBANK/investor_relations.html"
+    },
+    {
+      "ticker": "ICICIBANK",
+      "name": "ICICI Bank",
+      "investor_url": "https://www.icicibank.com/about-us/investor-relations",
+      "local_path": "ICICIBANK/investor_relations.html"
+    }
+  ]
+}
